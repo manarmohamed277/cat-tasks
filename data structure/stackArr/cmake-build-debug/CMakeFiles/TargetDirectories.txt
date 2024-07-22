@@ -1,0 +1,3 @@
+D:/manar/catRepo/data structure/stackArr/cmake-build-debug/CMakeFiles/untitled.dir
+D:/manar/catRepo/data structure/stackArr/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/manar/catRepo/data structure/stackArr/cmake-build-debug/CMakeFiles/rebuild_cache.dir

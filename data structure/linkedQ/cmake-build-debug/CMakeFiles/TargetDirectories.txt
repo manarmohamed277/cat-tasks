@@ -1,0 +1,3 @@
+D:/manar/linkedQ/cmake-build-debug/CMakeFiles/linkedQ.dir
+D:/manar/linkedQ/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/manar/linkedQ/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/manar/Q/cmake-build-debug/CMakeFiles/Q.dir
+D:/manar/Q/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/manar/Q/cmake-build-debug/CMakeFiles/rebuild_cache.dir
