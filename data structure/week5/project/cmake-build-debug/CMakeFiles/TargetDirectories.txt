@@ -1,0 +1,3 @@
+D:/manar/global/cmake-build-debug/CMakeFiles/global.dir
+D:/manar/global/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/manar/global/cmake-build-debug/CMakeFiles/rebuild_cache.dir
