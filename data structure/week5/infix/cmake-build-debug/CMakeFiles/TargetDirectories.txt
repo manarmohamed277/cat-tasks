@@ -1,0 +1,3 @@
+D:/manar/infix/cmake-build-debug/CMakeFiles/infix.dir
+D:/manar/infix/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/manar/infix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
